@@ -10,16 +10,7 @@ Details about the assignment itself can be found in finalproject.pdf.
 
 If you're a recruiter, and you're looking for evidence of my ability to use SQL (and understand relational databases as a whole), I would suggest looking at these files:
 - 
-- 
--
-- 
-- 
+- Normalization (word document), Schema and Model for design of the database
+- all the SQL files for population of the database
 
-If you're looking for the PHP code that serves the dynamic website, check out:
-- 
-- 
-- 
-- 
-
-
-Lots of files here, and I'm sure you're wondering where you should go first.
+If you're looking for the PHP code that serves the dynamic website, check out the numerous PHP files listed.
