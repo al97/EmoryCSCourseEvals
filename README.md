@@ -2,7 +2,7 @@
 
 Welcome!
 
-This was a project I completed for a Database Systems class that I took at Emory. Essentially, we were tasked with creating a course evaluation system that would replace our old system (gathering from scantron forms, and written course evaluations).
+This was a project I completed for a Database Systems class that I took at Emory. Essentially, we were tasked with creating a course evaluation system that would replace our old system: gathering from scantron forms, and written course evaluations. This was converted into an online form with radio buttons and text boxes.
 
 We were tasked with building the backend (including database design, creation, and population) and the frontend (dynamic website served through PHP). When I mean database design, I mean we started with an ER (Entity-Relationship) diagram, into the creation of a relational model, into the normalization of a database - the whole works, really. We populated the database with the CSV files (these were given to us) in the repository.
 
