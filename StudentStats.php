@@ -1,3 +1,5 @@
+# SOME OF THIS CODE IS EXTREMELY WORDY. It's about 600 lines,
+# and a lot of this is just if statements checking to see if the column value is something is 0 (in which case we don't print that value)
 <!DOCTYPE html>
 <html>
 <body>
