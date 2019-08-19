@@ -12,5 +12,6 @@ If you're a recruiter, and you're looking for evidence of my ability to use SQL 
 - 
 - Normalization (word document), Schema and Model for design of the database
 - all the SQL files for population of the database
+- also look at the PHP files, StudentStats.php for instance has queries, and the echo commands print specific columns from the query value to the page.
 
 If you're looking for the PHP code that serves the dynamic website, check out the numerous PHP files listed.
